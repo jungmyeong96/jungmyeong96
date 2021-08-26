@@ -1,7 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=radical)
   
- </br>
- 
  ## ⚒Teck_stack⚒
  
 <img src="https://img.shields.io/badge/seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/clang-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
