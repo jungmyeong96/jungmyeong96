@@ -3,7 +3,7 @@
  ## ⚒Tech_stack⚒
  
 <img src="https://img.shields.io/badge/seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/C_LANG-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Slack-503600?style=flat-square&logo=slack&logoColor=blue"/>
 
 
 <!--
