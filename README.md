@@ -1,4 +1,11 @@
+
+## 🖥 42 info 🖥 ##
+
+[![junghan's 42 stats](https://badge42.herokuapp.com/api/stats/junghan?privacyEmail=false)](https://github.com/jungmyeong96)
+
+
 ## 🔬GitHub stats🔬 ##
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight)
 
