@@ -1,4 +1,4 @@
-# 🍀 I'm interested in Defi and Micro Finance. #
+# 🍀 I'm interested in Defi and MicroFinance. #
 
 ## 🖥 42 info 🖥 ##
 
