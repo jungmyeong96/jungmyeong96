@@ -1,6 +1,6 @@
 # 🍀 I'm interested in Defi and MicroFinance. #
 
-## 🖥 42 info 🖥 ##
+## 🖥 42  info 🖥 ##
 
 [![junghan's 42 stats](https://badge42.herokuapp.com/api/stats/junghan?privacyEmail=false)](https://github.com/jungmyeong96)
 
