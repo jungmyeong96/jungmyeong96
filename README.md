@@ -8,7 +8,7 @@
 ## 🔬GitHub stats🔬 ##
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight)
+![junghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight)
 
 
  ## ⚒Tech_stack⚒ ##
