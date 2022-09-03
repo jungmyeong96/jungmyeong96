@@ -2,7 +2,7 @@
 
 ## 🖥 42  info 🖥 ##
 
-[![junghan's 42 stats](https://badge42.herokuapp.com/api/stats/junghan?privacyEmail=false)](https://github.com/jungmyeong96)
+[![junghan's 42 stats](https://badge.mediaplus.ma/greenbinary/junghan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 ## 🔬GitHub stats🔬 ##
