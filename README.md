@@ -1,4 +1,6 @@
 # 🍀 I'm interested in Defi and Micro Finance . # 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jungmyeong96&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🖥 42  info 🖥 ##
 
