@@ -4,17 +4,15 @@
 
 ## 🖥 42  info 🖥 ##
 
-[![junghan's 42 stats](https://badge.mediaplus.ma/greenbinary/junghan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![junghan's 42 stats](https://badge.mediaplus.ma/greenbinary/junghan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adagazua)](https://solved.ac/adagazua/)
 
 
 ## 🔬GitHub stats🔬 ##
 
 
-![junghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight)
-
+![junghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyeong96&layout=compact) </br>
 
  ## ⚒Tech_stack⚒ ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyeong96&layout=compact) </br>
 <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/C_LANG-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Slack-503600?style=flat-square&logo=slack&logoColor=blue"/>
 </br>
