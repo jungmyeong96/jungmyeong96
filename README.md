@@ -10,7 +10,8 @@
 ## 🔬GitHub stats🔬 ##
 
 
-![junghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyeong96&layout=compact) </br>
+![junghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyeong96&show_icons=true&theme=tokyonight) 
+ </br>
 
  ## ⚒Tech_stack⚒ ##
 
